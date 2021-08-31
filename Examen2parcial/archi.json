@@ -1,0 +1,83 @@
+[
+    {
+
+    "id": 1,
+    "cedula": "1316721586",
+    "apellidos": "Delgado",
+    "nombres": "Steven",
+    "direccion": "La aurora",
+    "telefono": "0982412002"
+},
+{
+    "id": 2,
+    "cedula": "13143746",
+    "apellidos": "Barcia",
+    "nombres": "Luis",
+    "direccion": "La lorena",
+    "telefono": "0982411999"
+},
+{
+    "id": 3,
+    "cedula": "1314191370",
+    "apellidos": "Mero",
+    "nombres": "jose",
+    "direccion": "La pradera",
+    "telefono": "0982411345"
+},
+{
+    "id": 4,
+    "cedula": "131419120",
+    "apellidos": "Loor",
+    "nombres": "Luis",
+    "direccion": "Umiña",
+    "telefono": "0982412002"
+},
+{
+    "id": 5,
+    "cedula": "131413524",
+    "apellidos": "Perez",
+    "nombres": "Jonh",
+    "direccion": "La aurora",
+    "telefono": "0982412020"
+},
+{
+    "id": 6,
+    "cedula": "135342639",
+    "apellidos": "Pasquel",
+    "nombres": "Veronica",
+    "direccion": "La Proaño",
+    "telefono": "0982411011"
+},
+{
+    "id": 7,
+    "cedula": "134192352",
+    "apellidos": "Velez",
+    "nombres": "Julio",
+    "direccion": "Jocay",
+    "telefono": "0982413089"
+},
+{
+    "id": 8,
+    "cedula": "131411736",
+    "apellidos": "Vera",
+    "nombres": "Anthony",
+    "direccion": "Miraflores",
+    "telefono": "0982412002"
+},
+{
+    "id": 9,
+    "cedula": "131419220",
+    "apellidos": "Zamora",
+    "nombres": "Joel",
+    "direccion": "Cuba",
+    "telefono": "0982413078"
+},
+{
+    "id": 10,
+    "cedula": "131324540",
+    "apellidos": "Soteldo",
+    "nombres": "Danny",
+    "direccion": "Barbasquillo",
+    "telefono": "0982413040"
+  }
+]
